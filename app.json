@@ -16,7 +16,7 @@
             "description": "Enter your Telegram API ID.",
             "required": true
         },
-        "API_HASH" {5893568858a096b7373c1970ba05e296
+        "API_HASH" { 5893568858a096b7373c1970ba05e296
             "description": "Enter your Telegram API Hash.",
             "required": true
         },
