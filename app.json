@@ -20,8 +20,8 @@
             "description": "5893568858a096b7373c1970ba05e296",
             "required": true
         },
-        "BOT_TOKEN": {8146069942:AAH1JDfbPx2Vz1dSuaUBoheKUdXYCnJdJkM
-            "description": "Enter your Telegram Bot Token.",
+        "BOT_TOKEN": {
+            "description": "8146069942:AAH1JDfbPx2Vz1dSuaUBoheKUdXYCnJdJkM",
             "required": true
         },
         "AUTH_USERS": {
