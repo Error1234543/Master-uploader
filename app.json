@@ -12,20 +12,20 @@
     "success_url": "https://github.com/nikhilsainiop/Masteruploader",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "API_ID": {20619533
             "description": "Enter your Telegram API ID.",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {5893568858a096b7373c1970ba05e296
             "description": "Enter your Telegram API Hash.",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {8146069942:AAH1JDfbPx2Vz1dSuaUBoheKUdXYCnJdJkM
             "description": "Enter your Telegram Bot Token.",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Enter your authorized user IDs, e.g., 6801378994,5919400080,...(Seprate by Comma) ",
+            "description": "Enter your authorized user IDs, e.g., 7447651332...(Seprate by Comma) ",
             "required": true
         }
     },
