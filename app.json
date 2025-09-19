@@ -25,7 +25,7 @@
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Enter your authorized user IDs, e.g., 7447651332...(Seprate by Comma) ",
+            "description": "Enter your authorized user IDs, e.g., 8226637107...(Seprate by Comma) ",
             "required": true
         }
     },
