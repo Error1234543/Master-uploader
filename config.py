@@ -10,3 +10,4 @@ class Config(object):
 
     HOST = os.environ.get("HOST", "https://api.masterapi.tech")  # Keeping HOST configurable
     CREDIT = os.environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")  # Making CREDIT an environment variable for flexibility
+ 
